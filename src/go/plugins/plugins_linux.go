@@ -33,6 +33,7 @@ import (
 	_ "zabbix.com/plugins/oracle"
 	_ "zabbix.com/plugins/postgres"
 	_ "zabbix.com/plugins/proc"
+	_ "zabbix.com/plugins/proc_custom_dir"
 	_ "zabbix.com/plugins/redis"
 	_ "zabbix.com/plugins/smart"
 	_ "zabbix.com/plugins/system/cpu"
